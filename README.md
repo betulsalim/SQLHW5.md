@@ -1,4 +1,4 @@
-patika.dev
+www.patika.dev
 # SQLHW5.md
 
 
